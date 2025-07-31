@@ -52,6 +52,7 @@ const ResumePage = () => {
               <ul>
                 <li>Back-End</li>
                 <ul>
+                  <li>Java</li>
                   <li>Node</li>
                   <li>Express</li>
                   <li>MongoDB</li>
