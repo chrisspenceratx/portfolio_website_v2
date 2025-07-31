@@ -29,7 +29,7 @@ const About = () => {
           {/* text */}
           <Col md={8} className="mb-5">
             <p className="about-text">
-              I am a passionate web developer, proficient in Javascript, HTML,
+              I am a passionate web developer, proficient in Javascript, Java, HTML,
               and CSS. I have many projects that showcase my skills. Despite
               juggling a demanding full-time job and caring for my young family,
               I've dedicated myself to crafting these creations. I am eager to
