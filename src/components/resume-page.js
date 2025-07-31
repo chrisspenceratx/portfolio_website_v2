@@ -73,7 +73,7 @@ const ResumePage = () => {
                   <li>Postman</li>
                   <li>SQL</li>
                   <li>VS Code</li>
-                  <li>Microsoft Office</li>
+                  <li>Microsoft 365</li>
                 </ul>
               </ul>
             </Col>
