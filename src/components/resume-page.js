@@ -71,9 +71,9 @@ const ResumePage = () => {
                   <li>Test-driven and behavor-driven development</li>
                   <li>Version Control - GitHub</li>
                   <li>Postman</li>
-                  <li>PostgreSQL</li>
+                  <li>SQL</li>
                   <li>VS Code</li>
-                  <li>Slack</li>
+                  <li>Microsoft Office</li>
                 </ul>
               </ul>
             </Col>
